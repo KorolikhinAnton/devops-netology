@@ -9,4 +9,4 @@
 1. Include override files you do wish to add to version control using negated pattern
 1. Include tfplan files to ignore the plan output of command: terraform plan -out=tfplan
 1. Ignore CLI configuration files
-1. New line +
+1. New line ++
